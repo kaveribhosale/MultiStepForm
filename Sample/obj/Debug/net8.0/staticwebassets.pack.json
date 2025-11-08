@@ -1,0 +1,857 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Sample.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Sample.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\js\\review-submit.js",
+      "PackagePath": "staticwebassets\\js\\review-submit.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\009450c2-ad9c-4460-a616-b928629d51f8_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\009450c2-ad9c-4460-a616-b928629d51f8_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\021b6faf-2659-4e60-938c-f6d13d6d1ef7_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\021b6faf-2659-4e60-938c-f6d13d6d1ef7_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\057bd3aa-213d-4356-9c40-52b1b697c192_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\057bd3aa-213d-4356-9c40-52b1b697c192_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\0781f30a-f5f8-4ce7-8e33-45f77fb6eef4_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\0781f30a-f5f8-4ce7-8e33-45f77fb6eef4_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\08a592dd-9b17-4996-a15f-d171f02bc8a7_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\08a592dd-9b17-4996-a15f-d171f02bc8a7_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\09eb93d1-2f89-4c64-a589-1761a39c344c_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\09eb93d1-2f89-4c64-a589-1761a39c344c_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\0c190328-ffe9-48f1-90fd-3175df8641f7_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\0c190328-ffe9-48f1-90fd-3175df8641f7_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\0c5ec56d-b398-44dc-b848-8cc31bdf9b55_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\0c5ec56d-b398-44dc-b848-8cc31bdf9b55_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\0f6e4fd9-1583-4d79-877b-35745acad1ac_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\0f6e4fd9-1583-4d79-877b-35745acad1ac_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\0ff9b98b-3f37-446a-96c3-eb7266c8b51c_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\0ff9b98b-3f37-446a-96c3-eb7266c8b51c_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\126df8a1-4901-4359-b518-1d400d2972fd_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\126df8a1-4901-4359-b518-1d400d2972fd_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\14095109-a657-488f-903d-f9ddcab9edc2_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\14095109-a657-488f-903d-f9ddcab9edc2_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\14dcce3c-f348-4eaf-aaaa-8c92ec8eb612_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\14dcce3c-f348-4eaf-aaaa-8c92ec8eb612_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\15ba7abe-16b6-4a93-902a-4bc20bb1f726_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\15ba7abe-16b6-4a93-902a-4bc20bb1f726_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\186556ad-8257-494e-a860-adf9094c712e_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\186556ad-8257-494e-a860-adf9094c712e_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\18841946-95af-46d1-8697-0650502e7d64_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\18841946-95af-46d1-8697-0650502e7d64_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\1999b462-2c7c-47d3-a10e-c1c1d2669fda_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\1999b462-2c7c-47d3-a10e-c1c1d2669fda_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\1d84b1b1-a293-4883-9740-b82e0224d5fa_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\1d84b1b1-a293-4883-9740-b82e0224d5fa_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\1f0f457b-c330-42af-b12d-4b2612029853_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\1f0f457b-c330-42af-b12d-4b2612029853_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\21bdc5fb-b150-4107-8fec-29b6ebb0b7c5_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\21bdc5fb-b150-4107-8fec-29b6ebb0b7c5_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\23154878-bed5-4224-a558-1d66cb082422_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\23154878-bed5-4224-a558-1d66cb082422_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\237315dc-6294-430f-990d-febde1d2e8e9_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\237315dc-6294-430f-990d-febde1d2e8e9_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\243a99dc-d034-4623-a65d-91ff31840564_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\243a99dc-d034-4623-a65d-91ff31840564_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\24763575-eac3-4f9d-96f9-f19003ada6e3_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\24763575-eac3-4f9d-96f9-f19003ada6e3_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\24bd67a5-186a-46e0-ba55-2d66b52f7055_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\24bd67a5-186a-46e0-ba55-2d66b52f7055_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\2ae11e43-b079-46c0-9b65-c8a0c12095c3_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\2ae11e43-b079-46c0-9b65-c8a0c12095c3_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\2c7e70f0-3e53-43af-9a81-b990a5fa5b94_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\2c7e70f0-3e53-43af-9a81-b990a5fa5b94_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\2ce5240d-263a-4c53-bc0a-f1733f3d7fa0_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\2ce5240d-263a-4c53-bc0a-f1733f3d7fa0_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\2d99f173-3f97-4109-97cd-9a0b483a34ae_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\2d99f173-3f97-4109-97cd-9a0b483a34ae_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\2ef739a9-1a41-45cb-80bf-55a978d12954_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\2ef739a9-1a41-45cb-80bf-55a978d12954_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\2f326322-b2c6-4617-9767-11422d45553b_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\2f326322-b2c6-4617-9767-11422d45553b_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\2f6ce4c7-a25a-4893-8c5f-e46771305481_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\2f6ce4c7-a25a-4893-8c5f-e46771305481_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\30b98f51-871b-4512-be59-d6a2770524b7_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\30b98f51-871b-4512-be59-d6a2770524b7_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\32cd263d-f7af-4975-80c9-d840da72e24c_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\32cd263d-f7af-4975-80c9-d840da72e24c_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\33af8f0b-e729-46cd-968e-260cf3748cf5_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\33af8f0b-e729-46cd-968e-260cf3748cf5_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\35660958-4396-4ef3-8cb6-60dac5f08526_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\35660958-4396-4ef3-8cb6-60dac5f08526_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\362d86d1-522d-4316-b28c-45f5b601f83b_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\362d86d1-522d-4316-b28c-45f5b601f83b_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\36b475ba-a587-432e-ba10-d0a6bc2a2b08_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\36b475ba-a587-432e-ba10-d0a6bc2a2b08_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\3aa519de-e8e4-4424-a820-53dc1a7d4a63_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\3aa519de-e8e4-4424-a820-53dc1a7d4a63_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\3afbfeb5-c6e2-4558-815e-4cc7e1f56479_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\3afbfeb5-c6e2-4558-815e-4cc7e1f56479_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\3ea9bc3b-89dd-4a1d-9625-8e4d74ed98ac_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\3ea9bc3b-89dd-4a1d-9625-8e4d74ed98ac_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\41c2ecb4-9381-40ba-bc1e-4d6a92bc6d3e_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\41c2ecb4-9381-40ba-bc1e-4d6a92bc6d3e_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\432d4951-6ec5-4631-936d-cfee7e88bc08_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\432d4951-6ec5-4631-936d-cfee7e88bc08_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\4332122e-cb2e-4925-b5ea-0815f85366f9_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\4332122e-cb2e-4925-b5ea-0815f85366f9_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\4367fcd9-062b-4764-9acf-f28906b85a91_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\4367fcd9-062b-4764-9acf-f28906b85a91_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\47677675-cfc3-4eae-be15-0abe7e85856f_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\47677675-cfc3-4eae-be15-0abe7e85856f_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\47e80c61-cda1-4ddf-a895-b110bb57dc69_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\47e80c61-cda1-4ddf-a895-b110bb57dc69_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\49108751-5ee3-4e19-9646-42176962d371_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\49108751-5ee3-4e19-9646-42176962d371_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\4abb9081-7af5-49fb-8972-287566a2999e_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\4abb9081-7af5-49fb-8972-287566a2999e_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\4bfd3ad7-c6c5-429d-89b0-6db9c49b61e4_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\4bfd3ad7-c6c5-429d-89b0-6db9c49b61e4_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\4d6a94e6-4bbd-406b-b2fe-fadc2c99e52e_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\4d6a94e6-4bbd-406b-b2fe-fadc2c99e52e_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\51635a5c-1204-4879-bddd-3a75fece1a48_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\51635a5c-1204-4879-bddd-3a75fece1a48_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\5173166c-2eab-4513-8ebb-95142c673168_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\5173166c-2eab-4513-8ebb-95142c673168_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\525a9e94-cddd-4b25-9f63-11dc22d4bfc7_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\525a9e94-cddd-4b25-9f63-11dc22d4bfc7_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\556b3ea5-162f-44ce-8821-48d7395225e6_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\556b3ea5-162f-44ce-8821-48d7395225e6_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\568182b7-d9ce-4f52-b506-16ae228eec81_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\568182b7-d9ce-4f52-b506-16ae228eec81_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\56ce0bac-4cc9-48ba-8921-6631eab12bf0_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\56ce0bac-4cc9-48ba-8921-6631eab12bf0_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\59c3b10b-0737-4901-991d-e3edb361c84a_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\59c3b10b-0737-4901-991d-e3edb361c84a_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\5a4eb699-b0c2-439b-99c1-402d2ccfa7d1_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\5a4eb699-b0c2-439b-99c1-402d2ccfa7d1_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\5a51a38e-6928-4ece-95aa-9c525fc45cda_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\5a51a38e-6928-4ece-95aa-9c525fc45cda_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\5ba94fab-c267-477a-9248-1e3834b64ac7_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\5ba94fab-c267-477a-9248-1e3834b64ac7_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\5d139b2d-e2d9-438c-97bc-6c8de89e4530_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\5d139b2d-e2d9-438c-97bc-6c8de89e4530_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\6344533a-5457-42cd-9119-a5e010c59b02_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\6344533a-5457-42cd-9119-a5e010c59b02_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\67bedb71-8f54-4ac4-ae8f-8e4c200d0c9e_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\67bedb71-8f54-4ac4-ae8f-8e4c200d0c9e_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\67ecba56-e0a2-4413-b24a-ca627b800ea7_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\67ecba56-e0a2-4413-b24a-ca627b800ea7_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\681e9bdf-3749-4767-95de-a1652288505c_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\681e9bdf-3749-4767-95de-a1652288505c_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\6a26421c-46bf-48df-8877-17dd4f1c109b_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\6a26421c-46bf-48df-8877-17dd4f1c109b_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\6ffd9f1c-91a6-419f-a41d-7bf568a448ba_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\6ffd9f1c-91a6-419f-a41d-7bf568a448ba_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\71c4f252-c882-4fdc-8d13-67050707ccbc_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\71c4f252-c882-4fdc-8d13-67050707ccbc_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\75818f5a-0174-43ee-9bed-04c5f371ccea_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\75818f5a-0174-43ee-9bed-04c5f371ccea_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\75906263-1981-4bff-8a3d-9c4cefd5100b_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\75906263-1981-4bff-8a3d-9c4cefd5100b_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\79d3f960-c0db-4443-8ccb-93093090f579_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\79d3f960-c0db-4443-8ccb-93093090f579_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\7a4cb45f-0eb1-4e5d-8907-b8046f6ddd0c_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\7a4cb45f-0eb1-4e5d-8907-b8046f6ddd0c_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\7a6e1543-3ee4-4d77-8003-1e79ad73a8fd_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\7a6e1543-3ee4-4d77-8003-1e79ad73a8fd_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\7af29462-cf74-4935-bca6-10801a103b91_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\7af29462-cf74-4935-bca6-10801a103b91_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\7c35fa97-00fa-4bb1-b939-833336f3f49c_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\7c35fa97-00fa-4bb1-b939-833336f3f49c_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\7daa5889-6b39-4b0e-98b6-19163833aa49_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\7daa5889-6b39-4b0e-98b6-19163833aa49_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\82f30bb0-15ad-4258-95f5-1d65bb32a3bf_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\82f30bb0-15ad-4258-95f5-1d65bb32a3bf_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\852ea181-d6a9-4c59-a7b0-1b653b316393_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\852ea181-d6a9-4c59-a7b0-1b653b316393_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\86426aea-30ba-417d-b00e-b6ca9e0118fb_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\86426aea-30ba-417d-b00e-b6ca9e0118fb_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\87710b9d-5550-4c87-a705-9e5e877881f0_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\87710b9d-5550-4c87-a705-9e5e877881f0_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\8789f066-1365-4d75-85ad-f00b1f6c1077_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\8789f066-1365-4d75-85ad-f00b1f6c1077_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\87e06f4d-28f0-45c1-8c35-bf276229b2df_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\87e06f4d-28f0-45c1-8c35-bf276229b2df_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\8a62fd0b-4ea4-45ea-add6-365120772278_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\8a62fd0b-4ea4-45ea-add6-365120772278_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\8cd51788-cd38-402c-8d16-6ec74149dd1d_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\8cd51788-cd38-402c-8d16-6ec74149dd1d_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\8e6944d4-ed5e-4c0d-a0fd-ebba25f65da0_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\8e6944d4-ed5e-4c0d-a0fd-ebba25f65da0_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\904e6d7a-c79f-4c41-bb66-f4c759b8cccd_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\904e6d7a-c79f-4c41-bb66-f4c759b8cccd_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\90818700-ed4e-4b82-826d-472054b92204_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\90818700-ed4e-4b82-826d-472054b92204_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\935d6451-6aad-4783-b362-373fbbbf4ead_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\935d6451-6aad-4783-b362-373fbbbf4ead_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\93caa08c-4895-49c9-b487-34a399ef5ddf_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\93caa08c-4895-49c9-b487-34a399ef5ddf_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\943d8595-442b-48c7-b49c-0fc4cad2dc47_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\943d8595-442b-48c7-b49c-0fc4cad2dc47_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\96ee61bc-8731-4002-8d60-418c56624db5_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\96ee61bc-8731-4002-8d60-418c56624db5_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\96f6ddce-5fb4-4256-947b-4aea4816d0ae_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\96f6ddce-5fb4-4256-947b-4aea4816d0ae_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\9b423350-f001-474d-9c58-4b725ff163d0_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\9b423350-f001-474d-9c58-4b725ff163d0_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\9e44f70b-a389-434c-9b49-ad523a78518b_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\9e44f70b-a389-434c-9b49-ad523a78518b_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\9f5c69af-c15d-4b80-b6d3-a07178fdec12_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\9f5c69af-c15d-4b80-b6d3-a07178fdec12_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\9f63034c-e4fc-4dbd-a6ef-38fe9e23fa03_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\9f63034c-e4fc-4dbd-a6ef-38fe9e23fa03_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\9fa69f81-eac9-463a-84e7-52684e360fe8_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\9fa69f81-eac9-463a-84e7-52684e360fe8_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\a07ad31b-705a-4824-bd89-f6d9131060e5_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\a07ad31b-705a-4824-bd89-f6d9131060e5_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\a214bf1a-ff0a-472c-aa48-fa65b1749593_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\a214bf1a-ff0a-472c-aa48-fa65b1749593_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\a3229066-cbab-43c0-bdf3-2724b0dda1b1_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\a3229066-cbab-43c0-bdf3-2724b0dda1b1_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\a56aa317-be25-4b8c-8dd5-1256f224d67a_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\a56aa317-be25-4b8c-8dd5-1256f224d67a_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\af3ef886-ed0f-4b44-8360-48cf834a5a0b_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\af3ef886-ed0f-4b44-8360-48cf834a5a0b_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\af6c0245-15a5-4e4a-8a12-83f5d193e856_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\af6c0245-15a5-4e4a-8a12-83f5d193e856_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\b178bd85-4d85-40fe-8400-6286f9df3dc9_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\b178bd85-4d85-40fe-8400-6286f9df3dc9_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\b226e1fd-abc7-4582-8454-b3fb2aea81f2_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\b226e1fd-abc7-4582-8454-b3fb2aea81f2_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\b26fdb0e-b673-4163-a5ab-66475ef1845e_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\b26fdb0e-b673-4163-a5ab-66475ef1845e_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\b45b5a6d-2e30-46ba-a3a5-28942f8d482b_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\b45b5a6d-2e30-46ba-a3a5-28942f8d482b_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\b4f46f2a-38e3-41c7-ba06-6ac8347262be_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\b4f46f2a-38e3-41c7-ba06-6ac8347262be_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\b92f19f0-c0fb-41a7-be98-4ad082cb0e22_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\b92f19f0-c0fb-41a7-be98-4ad082cb0e22_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\bb741571-13eb-452d-b47e-0a4c04f55e96_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\bb741571-13eb-452d-b47e-0a4c04f55e96_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\bbeac7f7-fa08-445b-9de2-30bb718310a4_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\bbeac7f7-fa08-445b-9de2-30bb718310a4_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\bc56d957-1912-4051-bfb7-d15c08d19a58_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\bc56d957-1912-4051-bfb7-d15c08d19a58_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\bedf8b5d-9ab6-4197-8a58-c22464a66afe_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\bedf8b5d-9ab6-4197-8a58-c22464a66afe_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\bf491a63-dd26-4b75-9dd3-b24ac6c175fa_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\bf491a63-dd26-4b75-9dd3-b24ac6c175fa_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\c063cabc-a50d-4695-b4b9-4d54b3f8a133_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\c063cabc-a50d-4695-b4b9-4d54b3f8a133_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\c26d03c8-21b9-4552-b2fc-6f8b46c023e1_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\c26d03c8-21b9-4552-b2fc-6f8b46c023e1_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\c6e78188-f035-4a07-b9fd-c144e5420b8a_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\c6e78188-f035-4a07-b9fd-c144e5420b8a_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\c787cf55-6a6f-41ef-9da7-a55b983fb5f8_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\c787cf55-6a6f-41ef-9da7-a55b983fb5f8_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\ccb17bdc-7293-4b5b-b108-85847ac73e62_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\ccb17bdc-7293-4b5b-b108-85847ac73e62_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\cd772cbe-cb89-40d4-affb-4e27b0e75192_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\cd772cbe-cb89-40d4-affb-4e27b0e75192_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\cf24db10-86c3-4d49-88a1-ff6f1686e4c4_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\cf24db10-86c3-4d49-88a1-ff6f1686e4c4_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\cfc69212-f9d6-4a2f-ac67-f0008cb2a8da_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\cfc69212-f9d6-4a2f-ac67-f0008cb2a8da_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\d14fb2ee-7b99-4eda-ae2f-e6c7033fc4a8_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\d14fb2ee-7b99-4eda-ae2f-e6c7033fc4a8_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\d5c537cf-75fc-4817-9fb6-9def9d88dd67_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\d5c537cf-75fc-4817-9fb6-9def9d88dd67_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\d9859969-1bce-4eae-8869-bd3c39dccb2a_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\d9859969-1bce-4eae-8869-bd3c39dccb2a_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\d9d4eb8c-6122-4089-a49c-a47b655136e5_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\d9d4eb8c-6122-4089-a49c-a47b655136e5_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\da991d03-6c96-425b-ae88-320fdbf71725_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\da991d03-6c96-425b-ae88-320fdbf71725_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\dd694da4-7181-4afb-ad25-7c7b2b48914e_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\dd694da4-7181-4afb-ad25-7c7b2b48914e_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\deedb941-fbbb-47ad-8054-817884edcddf_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\deedb941-fbbb-47ad-8054-817884edcddf_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\e094eebb-0082-4c18-a23a-74d3bbd791a1_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\e094eebb-0082-4c18-a23a-74d3bbd791a1_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\e269ff26-5c1a-42bd-a816-f25695055ab1_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\e269ff26-5c1a-42bd-a816-f25695055ab1_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\e43c51e6-7af2-4765-bd07-de317adcaddd_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\e43c51e6-7af2-4765-bd07-de317adcaddd_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\e589634c-f47d-40e1-80ae-02f75a793aee_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\e589634c-f47d-40e1-80ae-02f75a793aee_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\e5b5681f-b816-4d73-9364-524aed3485af_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\e5b5681f-b816-4d73-9364-524aed3485af_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\e8ac1c4f-77ef-463a-8eb3-81d4320847b1_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\e8ac1c4f-77ef-463a-8eb3-81d4320847b1_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\efebffcd-734a-4fc3-baf0-26bd592fb8cf_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\efebffcd-734a-4fc3-baf0-26bd592fb8cf_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\f1541fc0-8271-4070-82df-27a22028ec67_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\f1541fc0-8271-4070-82df-27a22028ec67_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\f159f283-b7d8-4a55-aad4-70d77c67889c_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\f159f283-b7d8-4a55-aad4-70d77c67889c_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\f2bbe990-f953-4561-a9fe-ba9479e94ee5_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\f2bbe990-f953-4561-a9fe-ba9479e94ee5_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\f2d80257-2a6f-4ada-bc51-43ac7d99afd0_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\f2d80257-2a6f-4ada-bc51-43ac7d99afd0_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\f4d12e86-86ec-4003-9ca4-e9d913f77f20_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\f4d12e86-86ec-4003-9ca4-e9d913f77f20_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\f5794a17-95c0-421e-ae6d-8f1cfe72c056_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\f5794a17-95c0-421e-ae6d-8f1cfe72c056_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\fa373698-f6b0-4e8b-a2ff-dcb8a51ff60e_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\fa373698-f6b0-4e8b-a2ff-dcb8a51ff60e_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\fdb8d06c-4e9b-40d0-9946-8e427ea3f21f_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\fdb8d06c-4e9b-40d0-9946-8e427ea3f21f_SRSarode (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\uploads\\fe708b74-b5a8-4f02-b1bc-56d6b3a91bd9_SRSarode (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\fe708b74-b5a8-4f02-b1bc-56d6b3a91bd9_SRSarode (1).pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Sample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Sample.props",
+      "PackagePath": "build\\Sample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Sample.props",
+      "PackagePath": "buildMultiTargeting\\Sample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Sample.props",
+      "PackagePath": "buildTransitive\\Sample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

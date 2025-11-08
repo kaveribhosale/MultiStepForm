@@ -1,0 +1,21 @@
+﻿@model Sample.Models.AccountApplication
+@{
+    ViewData["Title"] = "Application Summary";
+}
+<div class="container mt-4">
+    <h2>Application Summary</h2>
+    <hr />
+    <p><strong>Account Type:</strong> @Model.AccountType</p>
+    <p><strong>First Name:</strong> @Model.FirstName</p>
+    <p><strong>Last Name:</strong> @Model.LastName</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+    <p><strong>Phone:</strong> @Model.Phone</p>
+    <p><strong>Address:</strong> @Model.Address</p>
+
+    @if (!string.IsNullOrEmpty(Model.DocumentPath))
+    {
+        <p><strong>Uploaded Document:</strong> <a href="@Model.DocumentPath" target="_blank">View File</a></p>
+    }
+
+    <p><strong>Status:</strong> @Model.Status</p>
+</div>

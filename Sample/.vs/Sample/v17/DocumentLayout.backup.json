@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|c:\\users\\sandip.sarode\\source\\repos\\sample\\models\\accountapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|solutionrelative:models\\accountapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|c:\\users\\sandip.sarode\\source\\repos\\sample\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|solutionrelative:controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|c:\\users\\sandip.sarode\\source\\repos\\sample\\views\\application\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|solutionrelative:views\\application\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|c:\\users\\sandip.sarode\\source\\repos\\sample\\views\\application\\reviewandsubmit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|solutionrelative:views\\application\\reviewandsubmit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|c:\\users\\sandip.sarode\\source\\repos\\sample\\views\\application\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|solutionrelative:views\\application\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|c:\\users\\sandip.sarode\\source\\repos\\sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|c:\\users\\sandip.sarode\\source\\repos\\sample\\wwwroot\\js\\review-submit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|solutionrelative:wwwroot\\js\\review-submit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|c:\\users\\sandip.sarode\\source\\repos\\sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|c:\\users\\sandip.sarode\\source\\repos\\sample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|c:\\users\\sandip.sarode\\source\\repos\\sample\\sample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A66B5D02-BC3D-435C-82CE-7F38A88F3282}|Sample.csproj|solutionrelative:sample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "review-submit.js",
+              "DocumentMoniker": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\js\\review-submit.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\review-submit.js",
+              "ToolTip": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\wwwroot\\js\\review-submit.js",
+              "RelativeToolTip": "wwwroot\\js\\review-submit.js",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-06T16:41:31.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewAndSubmit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Views\\Application\\ReviewAndSubmit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Application\\ReviewAndSubmit.cshtml",
+              "ToolTip": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Views\\Application\\ReviewAndSubmit.cshtml",
+              "RelativeToolTip": "Views\\Application\\ReviewAndSubmit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T16:41:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Views\\Application\\Summary.cshtml",
+              "RelativeDocumentMoniker": "Views\\Application\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Views\\Application\\Summary.cshtml",
+              "RelativeToolTip": "Views\\Application\\Summary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T15:31:36.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Views\\Application\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Application\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Views\\Application\\Index.cshtml",
+              "RelativeToolTip": "Views\\Application\\Index.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAswIYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T15:31:08.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwD0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:30:22.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:28:58.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountApplication.cs",
+              "DocumentMoniker": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Models\\AccountApplication.cs",
+              "RelativeDocumentMoniker": "Models\\AccountApplication.cs",
+              "ToolTip": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Models\\AccountApplication.cs",
+              "RelativeToolTip": "Models\\AccountApplication.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:28:29.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sample.csproj",
+              "DocumentMoniker": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Sample.csproj",
+              "RelativeDocumentMoniker": "Sample.csproj",
+              "ToolTip": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Sample.csproj",
+              "RelativeToolTip": "Sample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T15:08:18.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:02:14.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sandip.sarode\\source\\repos\\Sample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T15:02:15.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
